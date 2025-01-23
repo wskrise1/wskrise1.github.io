@@ -16,12 +16,17 @@ I find ([Cool MATH](https://www.coolmathgames.com)) interesting becuase it has f
 
 ```mermaid
 flowchart TD
-A[Start Troubleshooting] --> B{Is the device turning on?}
-B -->|Yes| C[Check for software issues]
-B -->|No| D[Check power connection]
-D --> E{Is the power connected?}
-E -->|Yes| F[Check for internal damage]
-E -->|No| G[Plug in the device]
-G --> F
-F --> H[Consult a technician]
-C --> H
+  A[Start Troubleshooting] --> B{Is the TV turning on?}
+  B -->|Yes| C[Check for software issues, such as settings or apps]
+  B -->|No| D[Check power connection]
+  D --> E{Is the power cable securely connected?}
+  E -->|Yes| F[Inspect the TV for issues.]
+  E -->|No| G[Plug in the TV securely]
+  G --> F
+  F --> H[Consult a technician if the TV still doesn't turn on]
+  C --> I[Enjoy your TV]
+  H --> I
+
+
+
+
