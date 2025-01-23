@@ -12,3 +12,16 @@ _I want to do cybersecurity becuase its not damaging on the body in the long run
 ### Websites I find interesting 
 I find ([youtube](https://www.youtube.com/)) interesting because all the stuff you can watch and learn.
 I find ([Cool MATH](https://www.coolmathgames.com)) interesting becuase it has fun learning games you can play and learn at the same time.
+# Device Troubleshooting Flowchart
+
+```mermaid
+flowchart TD
+A[Start Troubleshooting] --> B{Is the device turning on?}
+B -->|Yes| C[Check for software issues]
+B -->|No| D[Check power connection]
+D --> E{Is the power connected?}
+E -->|Yes| F[Check for internal damage]
+E -->|No| G[Plug in the device]
+G --> F
+F --> H[Consult a technician]
+C --> H
