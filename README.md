@@ -26,6 +26,7 @@ flowchart TD
   F --> H[Consult a technician if the TV still doesn't turn on]
   C --> I[Enjoy your TV]
   H --> I
+
 git add lesson7.html
 git commit -m "Added lesson7.html file"
 
