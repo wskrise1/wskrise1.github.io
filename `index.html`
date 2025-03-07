@@ -1,1 +1,25 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Introduction</title>
+    <style>
+        body {
+            background-color: #4B776A; /* Replace with your chosen background color */
+        }
+        h1 {
+            color: #7396A5; /* Replace with your chosen color */
+        }
+        p {
+            color: #CCA9AA; /* Replace with your chosen color */
+        }
+    </style>
+</head>
+<body>
+    <h1>My name is [William Krise]</h1>
+    <p>I am a  student. I enjoy coding and solving problems. In my free time, I like to sleep and play video games.</p>
+    <p>Currently, I am learning HTML, CSS, and JavaScript. I aim to become proficient in cyber security and work on my own projects.</p>
+    <p>In the future, I hope to work as a cybersecurity and learm how to hack.</p>
+</body>
+</html>
