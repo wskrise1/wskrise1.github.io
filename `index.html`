@@ -4,15 +4,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Your Introduction</title>
-    <style>
+     <style>
         body {
-            background-color: #4B776A; /* Replace with your chosen background color */
+            background-color: #f4f1f1; /* Light background color */
         }
         h1 {
-            color: #7396A5; /* Replace with your chosen color */
+            color: #2e3d59; /* Dark blue color for the heading */
         }
         p {
-            color: #CCA9AA; /* Replace with your chosen color */
+            color: #6a5acd; /* Slate blue color for paragraphs */
         }
     </style>
 </head>
